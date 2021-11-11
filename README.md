@@ -1,5 +1,4 @@
 # Resume-Parser-NLP
-# CreditCard-Fraud-Detection-Classification
 SDAIA T5 Data Science Bootcamp
 <br/>
 This project will serve to Classify of fraudulent credit card transactions.

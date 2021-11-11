@@ -5,7 +5,7 @@ This project will serve to make a resume parser using Natural Language Processin
 <br/>
  Done By:
  <br/>
- [Wafaa Alharbi](https://github.com/Wafaa-Alharbi) & [Shahad Alkaltham](https://github.com/shhdSU)
+ [Wafaa Alharbi](https://github.com/Wafaa-Alharbi) & [Shahad Alkaltham](https://github.com/shhdSU) :heart:
   <br/>
    <br/>
 ## This repositry contains:

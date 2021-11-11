@@ -10,8 +10,8 @@ This project will serve to make a resume parser using Natural Language Processin
    <br/>
 ## This repositry contains:
 - [Images folder](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/images)
-- [Notebook folder.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/Resume-Parser-NLP-Code.ipynb)
-- [Proposal.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-NLP-Proposal.md)
-- [MVP.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-NLP-MVP.md)
-- [Slides.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-NLP-Slides.pdf)
-- [Final Report.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-NLP-Writeup.md)
+- [Notebook folder.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/Notebook)
+- [Proposal.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Proposal.md)
+- [MVP.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-MVP.md)
+- [Slides.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Slides.pdf)
+- [Final Report.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Writeup.md)

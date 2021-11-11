@@ -1,7 +1,7 @@
 # Resume-Parser-NLP
 SDAIA T5 Data Science Bootcamp
 <br/>
-This project will serve to Classify of fraudulent credit card transactions.
+This project will serve to make a resume parser using Natural Language Processing.
 <br/>
  Done By:
  <br/>

@@ -1,12 +1,6 @@
 # Resume-Parser-NLP
-SDAIA T5 Data Science Bootcamp
-<br/>
-This project will serve to make a resume parser using Natural Language Processing.
-<br/>
- Done By:
- <br/>
- [Wafaa Alharbi](https://github.com/Wafaa-Alharbi) & [Shahad Alkaltham](https://github.com/shhdSU) :white_heart:
-  <br/>
+
+This project will serve to make a resume parser using Natural Language Processing and it's done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with [Shahad Alkaltham](https://github.com/shhdSU) :white_heart:
    <br/>
 ## This repositry contains:
 - [Images folder](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/images)

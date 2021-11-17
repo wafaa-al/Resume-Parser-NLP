@@ -21,10 +21,10 @@ before applying EDA, we were had **5828** rows collected from four different dat
 <br/><br/>
 After all these previous steps the most frequent words are visualised as Word Cloud and Bar Chart:
 ### Data Visualisation
-<img src="https://github.com/shhdSU/Resume_Parser_NLP/blob/main/Images/word_cloud_plot.png" width="500"/> <br/>
+<img src="https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Images/word_cloud_plot.PNG" width="500"/> <br/>
 > Word Cloud
 
-<img src="https://github.com/shhdSU/Resume_Parser_NLP/blob/main/Images/words_freq_plot.png" width="500"/> <br/>
+<img src="https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Images/words_freq_plot.PNG" width="500"/> <br/>
 > Bar Chart
 
 <br/> For a next stage preparation, data vectorization applied.

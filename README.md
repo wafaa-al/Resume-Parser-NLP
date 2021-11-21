@@ -3,9 +3,9 @@
 This project will serve to make a resume parser using Natural Language Processing and it's done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with [Shahad Alkaltham](https://github.com/shhdSU) :white_heart:
    <br/>
 ## This repositry contains:
-- [Images folder](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/images)
-- [Jupyter Notebook folder.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/tree/main/Jupyter-Notebook)
-- [Proposal.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Propsal.md)
-- [MVP.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-MVP.md)
-- [Slides.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser.pdf)
-- [Final Report.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/NLP-Resume-parser-Final-Report.md.md)
+- [Images folder](/Images)
+- [Jupyter Notebook folder.](/Jupyter-Notebook)
+- [Proposal.](Resume-Parser-Propsal.md)
+- [MVP.](Resume-Parser-MVP.md)
+- [Slides.](Resume-Parser-Slides.pdf)
+- [Final Report.](NLP-Resume-parser-Final-Report.md.md)

@@ -8,4 +8,4 @@ This project will serve to make a resume parser using Natural Language Processin
 - [Proposal.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Propsal.md)
 - [MVP.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-MVP.md)
 - [Slides.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Slides.pdf)
-- [Final Report.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/Resume-Parser-Writeup.md)
+- [Final Report.](https://github.com/Wafaa-Alharbi/Resume-Parser-NLP/blob/main/NLP-Resume-parser-Final-Report.md.md)
